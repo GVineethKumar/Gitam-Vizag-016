@@ -1,0 +1,72 @@
+1.Read the input as number and print the output as large digit of the given number
+   test cases :- 89546 --- 9
+                 76433 --- 7
+
+2.Read the number as input and print the output as large digit from last three positions
+   test cases :-  89453 --- 5
+                  78564 --- 6
+
+3.Read the number as input and print the output in the given format
+  test cases 89456 --- <4,9>
+             76521 --- <1,7>
+
+4.Read the number as input and print the output in the given format
+  test cases :-  145 --- five four one
+                 1502 --- two zero five one 
+
+5.Read the input as number and print the output as sum of even digits of the given number
+  test cases :- 1889 --- 16
+                1591 --- 0
+
+6.read the number as input and print the factors/divisors for given number in the range of 1 to n 
+   test cases :- 6 --- 1 2 3 6
+                12 --- 1 2 3 4 6 12
+
+7.Read the number as input and print the output as follows 
+  test cases :- 1889 --- 5
+                1264 --- 2
+                1591 --- 1
+                1237 --- 0
+  hint:- sum of cricles and triangles in the given number 
+
+8.Read the input as number and print the output as "yes" or "no"
+print yes if the number is palindrome
+ test cases :- 121 -- yes
+               1889 -- n0
+
+9.Read the input a number and print the output as "yes" or "no"
+  print "yes" when the number as well as reverse number pointing to prime otherwise no
+  
+  test cases:- 79 -- yes
+               57 -- no
+
+10.Read the wo limits as input to program and print the output as even palindrome count
+   test cases :- 1 10 -- 4(2 4 6 8)
+                 1 100 -- 8(2 4 6 8 22 44 66 88)
+
+11.Read the two lines of input and single line output
+   input: 
+   line 1: two limits
+   line 2: single integer value n
+   output: 
+   nth palindrome between two limits
+
+   test cases:- input: 1 10
+                output: 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
